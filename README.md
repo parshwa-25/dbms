@@ -1,0 +1,1 @@
+# This Repository is made to submit Assignment of Database Management System of BScIT Sem-2
