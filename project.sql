@@ -5,3 +5,8 @@ create table customer (
     email varchar(30) not null,
     city varchar(20) not null
 );
+
+insert into customer
+values(1, 'Parshwa', 9023121151, 'parshwa@gmail.com', 'Surat');
+
+select * from customer;
