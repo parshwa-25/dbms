@@ -1,0 +1,1 @@
+select cust_id, sum(total_amt) from orders group by cust_id;
